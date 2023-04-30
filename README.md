@@ -3,8 +3,9 @@ This is Computer Vision assignment project. Main goal here is self explanatory. 
 
 ## Getting Started
 
-Libraries used here are Numpy and OpenCV
+Libraries used here are **Numpy** and **OpenCV**
 
 ## Contributing
 
-You can contribute if you want. If you find bug or suggestion, please submit an issue or pull request
+You can contribute if you want. If you find bug or suggestion, please submit an issue or a pull request.
+You also can find example test video in files
